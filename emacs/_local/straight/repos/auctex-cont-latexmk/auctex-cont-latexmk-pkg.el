@@ -1,2 +1,0 @@
-;; Generated package description from auctex-cont-latexmk.el  -*- no-byte-compile: t -*-
-(define-package "auctex-cont-latexmk" "0.3.0.20250115.185937" "run latexmk continuously, report errors via Flymake" '((emacs "29.3") (auctex "14.0.5")) :commit "e079c206f5784b5cb147f65006ec16ac821b84bd" :authors '(("Paul D. Nelson" . "nelson.paul.david@gmail.com")) :maintainer '("Paul D. Nelson" . "nelson.paul.david@gmail.com") :keywords '("tex") :url "https://github.com/ultronozm/auctex-cont-latexmk.el")
